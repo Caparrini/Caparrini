@@ -1,33 +1,120 @@
-# Welcome! 📊
-## Main repositories
+<h1 align="center">Antonio Caparrini</h1>
+<p align="center">
+  IT Systems Specialist · Software Project Management · Instructor · PhD Researcher in Explainable Machine Learning
+</p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caparrini&repo=mloptimizer&theme=dark)](https://github.com/caparrini/mloptimizer) 
+  I am an <b>IT Systems Specialist</b> with experience in <b>software project management, IT applications, and enterprise systems</b>.<br/>
+  I also teach in the <b>Master in Data Science (UOC)</b> and conduct research as a <b>PhD candidate</b> focused on
+  <b>explainability and interpretability of machine learning models in finance / fintech</b>.<br/>
+  My work integrates <b>information systems engineering</b>, <b>machine learning</b>, and <b>applied research</b>.
 
-## GitHub Stats
+<p align="center">
+  <a href="https://caparrini.github.io/cv/">
+    <img src="https://img.shields.io/badge/CV-View%20Online-555?style=for-the-badge&logo=readme&logoColor=white" alt="CV"/>
+  </a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caparrini&theme=dark&layout=compact&exclude_repo=EDBReports,EmergApp)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=caparrini&theme=dark&border_radius=4.9&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+---
 
-## Contact
+## 🧭 Professional Roles
 
-[![LinkedIn](https://img.shields.io/badge/Linkedin-1295c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/antoniocaparrini)
+- **IT Systems Specialist** – software project management, IT applications, system coordination  
+- **Instructor** – Master in Data Science (UOC)  
+- **PhD Researcher** – explainable & interpretable ML for financial decision-making  
 
-<!--
-**Caparrini/Caparrini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--
-#Python #R #SQL #Pandas #NumPy #ScikitLearn #TensorFlow #Keras #PyTorch #Hadoop #Spark #Kafka #AWS #GoogleCloud #Azure #Tableau #PowerBI #Matplotlib #DataGovernance #DataMining #MachineLearning #ArtificialIntelligence #NaturalLanguageProcessing #ComputerVision #ReinforcementLearning #BigData #CloudComputing #DataVisualization #DataEngineering #DataAnalysis #StatisticalAnalysis #VersionControl #Git #Docker #Kubernetes #JupyterNotebooks #ApacheAirflow #BItools #ETL #APIs #JSON #XML #NoSQL #MongoDB #Cassandra #Elasticsearch #DeepLearning #TimeSeriesAnalysis #AnomalyDetection #PredictiveModeling #Classification #Regression #Clustering #DimensionalityReduction #FeatureEngineering #ModelDeployment #ModelMonitoring #DataQuality #DataSecurity #DataCompliance #PrivacyByDesign #EthicalAI #ExplainableAI #Flask #Django #FastAPI #Streamlit #Dash #GraphQL #CUDA #OpenCV #SciPy #Gensim #SpaCy #NLTK #TesseractOCR #PySpark #Dask #Flink #Beam #Snowflake #Redshift #BigQuery #SAS #Excel #RapidMiner #KNIME #Alteryx #QlikSense #D3js #Plotly #GGplot2 #Shiny #Bokeh #Selenium #BeautifulSoup #WebScraping #IoT #EdgeComputing #QuantumComputing #Blockchain #SmartContracts #GANs #SVN #Mercurial #CI/CD #Jenkins #TravisCI #CircleCI #GitLabCI #Prometheus #Grafana #Logstash #Kibana #ElasticStack #Splunk #Nagios #Zabbix #OpenNMS #MachineVision #SpeechRecognition #TextMining #SentimentAnalysis #TopicModeling #EntityRecognition #RecommendationSystems #HyperparameterTuning #CrossValidation #BootstrapSampling #EnsembleLearning #RandomForests #SVM #NeuralNetworks #BayesianMethods #MarkovModels #GraphAnalytics #SocialNetworkAnalysis #OptimizationTechniques #LinearProgramming #IntegerProgramming #SimulatedAnnealing #GeneticAlgorithms #RecommenderSystems #FraudDetection #RiskManagement #SupplyChainAnalytics #HealthcareAnalytics #FinancialModeling #SportsAnalytics #NLPTransformers #BERT #GPT #RoBERTa #XLNet #T5 #OpenAI #DataOps #MLOps #DevOps #AgileMethodologies #Scrum #Kanban #LeanStartup #DesignThinking #UserExperience #ProjectManagement #StakeholderManagement #Leadership #TeamBuilding #StrategicThinking #InnovationManagement #ProductManagement #BusinessIntelligence #MarketAnalysis #CompetitiveIntelligence #CustomerInsights #UserResearch #DataStorytelling #VisualCommunication #DataLiteracy #CriticalThinking #ProblemSolving #Adaptability #ContinuousLearning #Collaboration #CommunicationSkills #TimeManagement #EmotionalIntelligence #CrossFunctionalTeamwork #CulturalCompetence #EthicsInAI #SustainabilityInTech #DigitalTransformation #Industry4.0 #SmartCities #DigitalHealth #Fintech #EdTech #AgriTech #RetailTech #AutoML #QuantitativeResearch #QualitativeResearch #MixedMethodsResearch #OperationalResearch #SystemsThinking #ComplexSystems #StrategicPlanning #Forecasting #ScenarioPlanning #CapacityPlanning #ResourceOptimization #ProcessImprovement #LeanSixSigma #QualityAssurance #PerformanceMetrics #KPIs #Benchmarking #BalancedScorecard #SWOTAnalysis #PESTLEAnalysis #RiskAssessment #ComplianceAudits #DataPrivacyLaws #GDPR #CCPA #HIPAA #FISMA #SOX #ISOStandards #CybersecurityBestPractices #InformationSecurityManagement #ThreatIntelligence #IncidentResponse #VulnerabilityManagement #PenetrationTesting #EncryptionStandards #BlockchainTechnology #CryptocurrencyAnalytics #SmartCitySolutions #SustainableTech #RenewableEnergyAnalytics #ClimateChangeModels #BiodiversityDataAnalysis #ConservationTech #GreenTechInnovations #CircularEconomyModels #SocialImpactMeasurement #CorporateSocialResponsibility #EthicalSourcing #SupplyChainTransparency #InclusiveDesign #AccessibilityStandards #DiversityEquityInclusion #CulturalIntelligence #GlobalCollaboration #RemoteWorkTools #VirtualTeamsManagement #DigitalNomadLifestyle #WorkLifeBalance #MentalHealthAwareness #WellnessTech #PersonalDevelopment #CareerCoaching #MentorshipPrograms #ProfessionalNetworking #IndustryConferences #AcademicPublishing #ResearchCollaborations #PatentFiling #InnovationPatents #StartupEcosystem #VentureCapital #AngelInvesting #CrowdfundingPlatforms #MarketTrendsAnalysis #ConsumerBehaviorStudies #BrandLoyaltyResearch #ProductInnovationCycles #GoToMarketStrategies #DigitalMarketingAnalytics #SEOStrategies #ContentMarketing #SocialMediaTrends #InfluencerPartnerships #OnlineReputationManagement #CustomerExperienceDesign #ServiceDesignThinking #OperationalExcellence #SupplyChainResilience #LogisticsOptimization #InventoryManagementSystems #ProcurementStrategies #VendorManagement #ContractNegotiation #FinancialForecasting #BudgetManagement #CostReductionInitiatives #RevenueGrowthStrategies #ProfitMarginAnalysis #CashFlowManagement #InvestmentAnalysis #PortfolioManagement #EconomicModeling #MarketSegmentation #PriceElasticityStudies #DemandForecasting #SalesPerformanceAnalysis #CustomerRetentionStrategies #CRMSystems #LeadGenerationTechniques #ConversionRateOptimization #A/BTesting #UserInterfaceDesign #UserInteractionStudies #MobileAppAnalytics #WebDevelopmentFrameworks #APIIntegration #MicroservicesArchitecture #ServerlessComputing #ContainerOrchestration #CloudSecurityPractices #DataCenterManagement #NetworkArchitecture #SystemAdministration #TechnicalSupport #HelpDeskOperations #ITServiceManagement #SoftwareLicenseManagement #DigitalRightsManagement #ContentManagementSystems #ECommercePlatforms #PaymentGatewayIntegration #FraudPreventionSystems #IdentityVerificationServices #BiometricSecuritySolutions #SmartHomeTechnologies #WearableTech #AugmentedReality #VirtualReality #MixedReality #GameDesignPrinciples #3DModelingSoftware #AnimationTools #VideoEditingSoftware #AudioProduction
+<p align="center"><b>Programming & Data</b></p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" style="margin: 0 8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40" alt="R" style="margin: 0 8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" style="margin: 0 8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" style="margin: 0 8px;"/>
+</p>
 
-#Techniques #PodcastingTrends #LiveStreamingTech #EventTechnology #ConferenceManagementTools #WebinarPlatforms #OnlineEducationModels #LearningManagementSystems #ElearningContentDevelopment #MOOCs #DigitalCertificationPrograms #SkillAssessmentTools #CareerPathwayPlanning #WorkforceDevelopmentStrategies #TalentAcquisitionTechniques #EmployeeEngagementPrograms #PerformanceManagementSystems #CompensationBenchmarking #BenefitsAdministration #LaborLawCompliance #WorkplaceSafetyStandards #EnvironmentalHealthMonitoring #OccupationalHealthManagement #EmployeeWellnessPrograms #CorporateFitnessInitiatives #NutritionCounselingServices #StressManagementWorkshops #MentalHealthSupportNetworks #CommunityEngagementProjects #VolunteerismPrograms #PhilanthropyStrategies #NonprofitPartnerships #SocialEntrepreneurshipModels #ImpactInvesting #SocialImpactBonds #MicrofinanceSolutions #FinancialInclusionPrograms #DigitalLiteracyInitiatives #STEMEducationOutreach #CivicTechInnovations #PublicPolicyAnalysis #GovernmentTransparencyTools #ElectionTechnology #VotingSystems #PublicRecordsAccess #FreedomOfInformationActs #CivilRightsProtection #HumanRightsMonitoring #InternationalDevelopmentProjects #GlobalHealthInitiatives #DisasterReliefEfforts #HumanitarianAidLogistics #RefugeeSupportServices #ConflictResolutionTechniques #PeacebuildingPrograms #DiplomacySkills #InternationalRelationsStudies #GlobalTradeAnalysis #ExportImportRegulations #CustomsCompliance #TradeAgreementNegotiations #EconomicSanctionsMonitoring #InternationalBusinessEtiquette #CrossBorderCommerce #GlobalSupplyChains #InternationalLogistics #CurrencyExchangeRateFluctuations #ForeignInvestmentStrategies #EmergingMarketOpportunities #GlobalEconomicTrends #WorldBankReports #IMFPolicies #UnitedNationsPrograms #WorldHealthOrganizationGuidelines #GlobalEnvironmentalAgreements #ClimateAccords #SustainableDevelopmentGoals #BiodiversityConservationEfforts #OceanProtectionInitiatives #LandUsePlanning #UrbanDevelopmentStrategies #SmartGrowthPrinciples #TransportationPlanning #PublicTransitImprovements #BikeSharingPrograms #ElectricVehicleInfrastructure #RenewableEnergyProjects #SolarPowerInnovations #WindEnergyTechnologies #HydropowerSolutions #GeothermalHeatingSystems #BioenergyResources #CarbonCaptureMethods #GreenhouseGasEmissionsReduction #ClimateResiliencePlanning #FloodRiskManagement #WildfirePreventionStrategies #DroughtMitigationTechniques #WaterConservationInitiatives #SoilHealthImprovement #AgriculturalSustainabilityPractices #OrganicFarmingTechniques #PrecisionAgricultureTools #FoodSecurityPrograms #NutritionEducationCampaigns #HungerReliefEfforts #FoodWasteReduction #CircularFoodEconomy #AquacultureDevelopment #MarineConservationProjects #CoralReefRestoration #FisheriesManagement #SustainableSeafoodCertification #OceanPollutionPrevention #PlasticWasteReduction #RecyclingInnovations #WasteToEnergyTechnologies #LandfillManagement #CompostingPrograms #UrbanGreeningInitiatives #TreePlantingCampaigns #GreenRoofInstallations #VerticalFarming #UrbanAgriculture #CommunityGardens #PublicParksImprovement #OutdoorRecreationAccess #WildlifeHabitatProtection #EndangeredSpeciesRecovery #ConservationFunding #EnvironmentalEducation #EcoTourismDevelopment #SustainableTravelPractices #CulturalHeritagePreservation #ArchaeologicalSiteConservation #HistoricBuildingRestoration #MuseumExhibitDesign #ArtConservationTechniques #LiteraryPreservationProjects #FilmArchiveManagement #MusicRecordingPreservation #PerformingArtsSupport #VisualArtsFunding #CraftsmanShipTraining #DesignInnovation #ProductDesignTrends #UserCenteredDesign #IndustrialDesignPrinciples #FashionTechnology #TextileInnovation #WearableArt #JewelryDesign #CeramicsCraftsmanship #GlassBlowingTechniques #WoodworkingSkills #MetalworkingArtistry #SculptureCreation #PaintingTechniques #DrawingFundamentals #PrintmakingProcesses #PhotographyStyles #DigitalArtMediums #GraphicDesignSoftware #AnimationCreation #VideoGameDevelopment #InteractiveMediaDesign #VirtualArtExhibitions #OnlineGalleryPlatforms #ArtMarketAnalysis #CollectibleInvestmentStrategies #AuctionHouseOperations #ArtFairManagement #CulturalFestivalCoordination #MusicFestivalProduction #TheaterProductionManagement #DancePerformanceChoreography #OperaProduction #SymphonyOrchestraManagement #ChoirDirection #BandManagement #MusicComposition #SongwritingTechniques #MusicProductionSoftware #SoundEngineering #AudioMixing #DJingSkills #MusicVideoProduction #ConcertPromotion #TourManagement #ArtistBooking #TalentManagement #EntertainmentLaw #MusicPublishing #RecordLabelOperations #StreamingServiceAnalytics #PodcastProduction #BroadcastMedia #TelevisionProduction #FilmMaking #Screenwriting #ActingTechniques #DirectingSkills #Cinematography #FilmEditing #SpecialEffectsCreation #CostumeDesign #SetDesign #LightingDesign #SoundDesign #TheaterTech #StageManagement #PropMaking #MakeupArtistry #StuntCoordination #VoiceActing #Narration
--->
+<p align="center"><b>Machine Learning & Deep Learning</b></p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="scikit-learn" style="margin: 0 8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" style="margin: 0 8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40" height="40" alt="Keras" style="margin: 0 8px;"/>
+</p>
+<p align="center">
+  XGBoost
+</p>
+
+<p align="center"><b>Data Processing & Big Data</b></p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="40" height="40" alt="Apache Spark / PySpark" style="margin: 0 8px;"/>
+</p>
+
+<p align="center"><b>Visualization</b></p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="Matplotlib" style="margin: 0 8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="40" height="40" alt="Plotly" style="margin: 0 8px;"/>
+</p>
+
+<p align="center"><b>Systems & Integration</b></p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" height="40" alt="SOAP / Enterprise Services" style="margin: 0 8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40" alt="API Services" style="margin: 0 8px;"/>
+</p>
+
+---
+
+## 🚀 Featured Repository
+
+<p align="center">
+  <a href="https://github.com/caparrini/mloptimizer">
+      <img src="https://img.shields.io/badge/Repository-mloptimizer-2b3137?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+<p align="center">
+  <b>mloptimizer</b> — a lightweight library for <b>hyperparameter tuning</b> using genetic algorithms.
+</p>
+
+---
+
+## 📚 Research
+
+<p align="center">
+  I focus on <b>explainable and interpretable machine learning</b> applied to <b>finance and credit risk</b>,
+  including scoring models, profit-sensitive classification, and factor-based investment modelling.<br/><br/>
+  📄 Full list of publications available on my
+  <a href="https://caparrini.github.io/publications/">personal website</a>.
+</p>
+
+---
+
+## 🧠 What I’m Working On
+
+- PhD research on **explainability of ML models in finance / fintech**  
+- Extending **[mloptimizer](https://github.com/caparrini/mloptimizer)**  
+- Teaching in the **Master in Data Science (UOC)**  
+- Leading IT systems & software projects at the **Banco de España**
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://metrics.lecoq.io/caparrini?template=classic&languages=1&lines=1&config.timezone=Europe%2FMadrid" 
+    alt="GitHub metrics for caparrini"
+  />
+</p>
+
+---
+
+## 🔗 Find Me Online
+
+<p align="center">
+  <a href="https://caparrini.github.io">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Website"/>
+  </a>
+  <a href="https://www.linkedin.com/in/antoniocaparrini">
+    <img src="https://img.shields.io/badge/LinkedIn-1295c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
