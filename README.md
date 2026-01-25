@@ -39,9 +39,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="scikit-learn" style="margin: 0 8px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" style="margin: 0 8px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40" height="40" alt="Keras" style="margin: 0 8px;"/>
-</p>
-<p align="center">
-  XGBoost
+  <img src="https://img.shields.io/badge/XGBoost-189FDD?style=flat&logo=xgboost&logoColor=white" height="28" alt="XGBoost" style="margin: 0 8px;"/>
 </p>
 
 <p align="center"><b>Data Processing & Big Data</b></p>
@@ -116,5 +114,11 @@
   </a>
   <a href="https://www.linkedin.com/in/antoniocaparrini">
     <img src="https://img.shields.io/badge/LinkedIn-1295c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://scholar.google.es/citations?user=WklejiEAAAAJ&hl=es">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
+  </a>
+  <a href="https://orcid.org/0000-0002-5411-6397">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
   </a>
 </p>
