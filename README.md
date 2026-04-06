@@ -64,7 +64,7 @@
 ## 🚀 Featured Repository
 
 <p align="center">
-  <a href="https://github.com/caparrini/mloptimizer">
+  <a href="https://github.com/scikit-learn-contrib/mloptimizer">
       <img src="https://img.shields.io/badge/Repository-mloptimizer-2b3137?style=for-the-badge&logo=github" />
   </a>
 </p>
