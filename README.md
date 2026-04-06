@@ -9,7 +9,7 @@
   My work integrates <b>information systems engineering</b>, <b>machine learning</b>, and <b>applied research</b>.
 
 <p align="center">
-  <a href="https://caparrini.github.io/cv/">
+  <a href="https://caparrini.github.io">
     <img src="https://img.shields.io/badge/CV-View%20Online-555?style=for-the-badge&logo=readme&logoColor=white" alt="CV"/>
   </a>
 </p>
